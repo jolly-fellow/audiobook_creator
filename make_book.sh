@@ -1,0 +1,1 @@
+source silero_env/bin/activate && python ./src/make_book.py
